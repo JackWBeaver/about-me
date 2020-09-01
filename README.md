@@ -1,8 +1,8 @@
 # about-me
 
 ## Repository Links
-- Source Repository
-- Hosted Page
+- Source Repository: https://github.com/JackWBeaver/about-me
+- Hosted Page: https://jackwbeaver.github.io/about-me/
 
 ## About
 This repo will be used to practice using professional software development tools. 
@@ -20,9 +20,9 @@ Required Languages:
 - Python
 
 ## Recommended Resources
-- 
-- 
-- 
+- https://github.com/google/WebFundamentals
+- https://github.com/RitikPatni/Front-End-Web-Development-Resources
+- https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer
 
 ## Contributors
 Jack W Beaver, BS Data Science: Computer Science
