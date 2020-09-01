@@ -26,4 +26,5 @@ Required Languages:
 
 ## Contributors
 Jack W Beaver, BS Data Science: Computer Science
+
 ![Selfie](Selfie.jpg)
