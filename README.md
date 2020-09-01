@@ -12,6 +12,7 @@ Required Tools:
 - GitHub
 - PowerShell (as Administrator)
 - Visual Studio Code
+
 Required Languages:
 - Markdown
 - Bash
