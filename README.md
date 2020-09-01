@@ -18,3 +18,11 @@ Required Languages:
 - Bash
 - Linux
 - Python
+
+## Recommended Resources
+- 
+- 
+- 
+
+## Contributors
+Jack W Beaver, BS Data Science: Computer Science
